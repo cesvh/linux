@@ -1,0 +1,23 @@
+Windows PowerShell
+Copyright (C) Microsoft Corporation. Todos los derechos reservados.
+
+Instale la versión más reciente de PowerShell para obtener nuevas características y mejoras. https://aka.ms/PSWindows
+
+PS C:\Users\cesvh>
+PS C:\Users\cesvh> winget install vscodium
+El origen 'msstore' requiere que vea los siguientes contratos antes de usarlo.
+Terms of Transaction: https://aka.ms/microsoft-store-terms-of-transaction
+El origen requiere que la región geográfica de dos letras de la máquina actual se envíe al servicio back-end para que funcione correctamente (por ejemplo, "EE. UU.").
+
+¿Está de acuerdo con todos los términos de los contratos de origen?
+[Y] Sí  [N] No: Y
+Encontrado VSCodium [VSCodium.VSCodium] Versión 1.84.2.23319
+El propietario de esta aplicación le concede una licencia.
+Microsoft no es responsable, ni tampoco concede ninguna licencia de paquetes de terceros.
+Descargando https://github.com/VSCodium/vscodium/releases/download/1.84.2.23319/VSCodiumUserSetup-x64-1.84.2.23319.exe
+  ██████████████████████████████  86.3 MB / 86.3 MB
+El hash del instalador se verificó correctamente
+Iniciando instalación de paquete...
+Instalado correctamente
+PS C:\Users\cesvh>
+PS C:\Users\cesvh>
